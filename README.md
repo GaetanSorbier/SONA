@@ -15,6 +15,8 @@ YAML Script
 
 ## Run Locally
 
+Create new repo, for exemple "Obsidian-Notes"
+
 Clone the project
 
 ```bash
