@@ -1,6 +1,18 @@
 # SONA 
 ## SONA (Save Obsidian Notes Automation)
 
+
+## Screenshots
+
+Bash Script for Automation
+
+![Bash Script for Automation](https://zupimages.net/up/24/22/5z7l.png)
+
+YAML Script 
+
+![YAML](https://zupimages.net/up/24/22/51gn.png)
+
+
 ## Run Locally
 
 Clone the project
